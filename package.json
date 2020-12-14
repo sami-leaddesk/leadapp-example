@@ -9,10 +9,10 @@
     "url": "https://github.com/sami-leaddesk/leadapp-example.git"
   },
   "dependencies": {
-    "leadapp-draft": "^0.0.1"
+    "leadapp-draft": "0.0.1"
   },
   "devDependencies": {
-    "webpack": "^4.44.1",
+    "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
   },
   "scripts": {
